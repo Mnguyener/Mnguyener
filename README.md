@@ -1,5 +1,17 @@
-### Hi there 👋
+## About me
 
+Hi, my name is Michelle and I'm an aspiring programmer. Lettuce try our best!
+
+<details>
+<summary>My top languages based on what I know: </summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| C++       |
+|     3| JavaScript|
+  
+</details>
 <!--
 **Mnguyener/Mnguyener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
