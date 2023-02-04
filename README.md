@@ -9,8 +9,8 @@ Hi, my name is Michelle and I'm an aspiring programmer. Lettuce try our best!
 |-----:|-----------|
 |     1| Python    |
 |     2| C++       |
-|     3| JavaScript|
-|     4| SQL       |
+|     3| SQL       |
+|     4| JavaScript|
 |     5| Scala     |
   
 </details>
