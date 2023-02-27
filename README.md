@@ -10,8 +10,8 @@ Hi, my name is Michelle and I'm an aspiring programmer. Lettuce try our best!
 |     1| Python    |
 |     2| C++       |
 |     3| SQL       |
-|     4| JavaScript|
-|     5| Scala     |
+|     4| Scala     |
+|     5| JavaScript|
   
 </details>
  🔭 I’m currently working on building my personal website! Check it out (or don't, it's not finished yet hehe...)
