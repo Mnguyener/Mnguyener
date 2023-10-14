@@ -15,9 +15,9 @@ Hi, my name is Michelle and I'm a programmer having fun with Linux. Lettuce try 
   
 </details>
  🔭 On my free time, I’m either revamping my personal website, customizing my configs, or learning more about info sec! My goal is to push out more blog content by the end of this year ✨
- <br>
+ <br> <br>
  p.s. I love snoopy
- <br>
+ <br> <br>
  
 <picture> 
  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">![image]() -->
