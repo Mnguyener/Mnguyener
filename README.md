@@ -15,7 +15,7 @@ Hi, my name is Michelle and I'm a programmer having fun with Linux. Lettuce try 
   
 </details>
  🔭 On my free time, I’m either revamping my personal website, customizing my configs, or learning more about info sec! My goal is to push out more blog content by the end of this year ✨
-
+ <br>
  p.s. I love snoopy
  <br>
  
