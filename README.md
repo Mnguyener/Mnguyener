@@ -16,13 +16,15 @@ Hi, I'm just a college student enjoying the mundanities of life and constantly e
 </details>
  🔭 On my free time, I’m either revamping my personal website, customizing my configs, or learning more about info sec! My goal is to push out more blog content by the end of this year ✨
  <br> <br>
- p.s. I love snoopy
+ p.s. I love snoopy 
  <br> <br>
  
-<picture> 
- <source media ="(prefers-color-scheme: dark)" srcset="https://github.com/Mnguyener/Mnguyener/assets/52382029/e1c4218a-8c3e-4cb7-af34-d265ff37e7c8" width="200" height="200">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/Mnguyener/Mnguyener/assets/52382029/6ec640da-c3cf-4f17-bbc1-55ea5876b292" width="200" height="200">
-</picture>
+ <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/d3bea97d-0092-4b91-8e11-6dc3efa21a2a" width="200" height="200">
+  <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/76023782-dd16-4277-9af7-5bb9c9fea093" width="180" height="200">
+   <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/d96f8e3b-df15-4aeb-8ec8-649b1d2381ad" width="200" height="200">
+ <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/f0110cd8-cfe5-470a-ba13-0f0880f11846" width="180" height="200">
+<br> <br>
+<sub><sup>one day I'll actually have a snoopy to take his candid pictures (images from @snooopyiscool and @gir1genius on twitter)</sup></sub>
 
 
 <!--
