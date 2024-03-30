@@ -19,12 +19,17 @@ Hi, I'm just a college student enjoying the mundanities of life and constantly e
  p.s. I love snoopy 
  <br> <br>
  
- <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/d3bea97d-0092-4b91-8e11-6dc3efa21a2a" width="200" height="200">
-  <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/76023782-dd16-4277-9af7-5bb9c9fea093" width="180" height="200">
-   <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/d96f8e3b-df15-4aeb-8ec8-649b1d2381ad" width="200" height="200">
- <img src="https://github.com/Mnguyener/Mnguyener/assets/52382029/f0110cd8-cfe5-470a-ba13-0f0880f11846" width="180" height="200">
-<br> <br>
-<sub><sup>one day I'll actually have a snoopy to take his candid pictures (images from @snooopyiscool and @gir1genius on twitter)</sup></sub>
+ <foreignObject>
+   <div xmlns="http://www.w3.org/1999/xhtml">
+     <img src="snoopy_and_lil_snoopy.jpg" width="180" height="250">
+     <img src="snoopyhat.jpg" width="180" height="250">
+     <img src="snoopy_playing_basketball.jpg" width="180" height="250">
+     <img src="snoopy_playing_uno.jpg" width="180" height="250">
+     <br>
+     <br>
+   </div>
+</foreignObject>
+<sub><sup> here are my candid pictures of my snoopy - 2024 </sup></sub>
 
 
 <!--
