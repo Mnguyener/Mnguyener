@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm just a college student enjoying the mundanities of life and constantly exploring how to be a better programmer. 
+Hi, I'm just a software engineer enjoying the mundanities of life and constantly exploring how to be a better programmer. 
 
 <details>
 <summary>My languages based on skill level: </summary>
